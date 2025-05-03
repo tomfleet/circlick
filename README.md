@@ -1,6 +1,6 @@
-### Circlick
+# Circlick
 
-##### Because "AI" - and humans - both ***suck*** at counting more than ~10 of anything.
+### Because "AI" - and humans - both ***suck*** at counting more than ~10 of anything.
 
 ![](assets/20250503_084744_circlick.png)
 
@@ -13,7 +13,7 @@
 
 ---
 
-Making it work (on *my* machine...)
+#### Making it work (on *my* machine...)
 
 1. Grab this repo.
 2. Do the pip thing for pillow
@@ -59,16 +59,19 @@ Making it work (on *my* machine...)
 
    ![](assets/20250503_091711_image.png)
 
-## Other stuff...
+---
 
-### Turf Wars?
+### Other stuff...
+
+
+#### Turf Wars?
 
 If your circlick ends up close enough to another circlick, and insults are exchanged, the existing circlick gets all red and angry, and scares the new one away. *(Marvel, I know what this looks like, don't sue me)
 
 ![](assets/20250503_092645_image.png)
 
 
-### "Dang it, I got too excited and started counting things I didn't mean to!"
+#### "Dang it, I got too excited and started counting things I didn't mean to!"
 
 It's ok - it happens to all of us. Don't worry, I did it too - there are at least two ways to get your clicks together. 
 
@@ -83,12 +86,12 @@ It's ok - it happens to all of us. Don't worry, I did it too - there are at leas
 
          ![](assets/20250503_093435_image.png)
 
-### Looking to impress less technical co-workers?
+#### Looking to impress less technical co-workers?
 
 Easy - just click "Export Markers" for some free JSON. It should end up wherever the image you are counting was found. Check there. 
 
 
-### Need a break from counting?
+#### Need a break from counting?
 
 Gotcha covered. Eagle eyes will have noticed that the opening file picker selects image files, and of course, JSON. Makes sense now right?
 
