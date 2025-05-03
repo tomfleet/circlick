@@ -1,0 +1,2178 @@
+{
+    "image_file": "/mnt/d/rep02d/maff/pick'n'count/circlick/Gp9UNflawAAWG4G.jpeg",
+    "image_scale_factor": 0.6536618754277892,
+    "window_width": 1908,
+    "window_height": 955,
+    "markers": [
+        {
+            "index": 0,
+            "initial_position": {
+                "x": 115.57606490872212,
+                "y": 151.13793103448276
+            },
+            "initial_size": 53.00000000000001,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 75.5476673427992,
+                "y": 98.79310344827587
+            },
+            "scaled_size": 34.64407939767283
+        },
+        {
+            "index": 1,
+            "initial_position": {
+                "x": 223.74340770791076,
+                "y": 157.06490872210955
+            },
+            "initial_size": 31.000000000000004,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 146.25253549695742,
+                "y": 102.66734279918866
+            },
+            "scaled_size": 20.263518138261468
+        },
+        {
+            "index": 2,
+            "initial_position": {
+                "x": 321.53853955375257,
+                "y": 125.94827586206897
+            },
+            "initial_size": 31.000000000000004,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 210.17748478701827,
+                "y": 82.32758620689656
+            },
+            "scaled_size": 20.263518138261468
+        },
+        {
+            "index": 3,
+            "initial_position": {
+                "x": 404.5162271805274,
+                "y": 117.05780933062881
+            },
+            "initial_size": 39.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 264.41683569979716,
+                "y": 76.5162271805274
+            },
+            "scaled_size": 25.49281314168378
+        },
+        {
+            "index": 4,
+            "initial_position": {
+                "x": 497.8661257606491,
+                "y": 120.0212981744422
+            },
+            "initial_size": 34.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 325.43610547667345,
+                "y": 78.45334685598378
+            },
+            "scaled_size": 22.22450376454483
+        },
+        {
+            "index": 5,
+            "initial_position": {
+                "x": 603.0699797160244,
+                "y": 124.46653144016227
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 394.2038539553753,
+                "y": 81.35902636916836
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 6,
+            "initial_position": {
+                "x": 718.6460446247464,
+                "y": 125.94827586206897
+            },
+            "initial_size": 49.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 469.75152129817445,
+                "y": 82.32758620689656
+            },
+            "scaled_size": 32.02943189596167
+        },
+        {
+            "index": 7,
+            "initial_position": {
+                "x": 837.185598377282,
+                "y": 115.57606490872212
+            },
+            "initial_size": 47.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 547.23630831643,
+                "y": 75.5476673427992
+            },
+            "scaled_size": 30.72210814510609
+        },
+        {
+            "index": 8,
+            "initial_position": {
+                "x": 983.8782961460447,
+                "y": 112.61257606490872
+            },
+            "initial_size": 42.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 643.1237322515213,
+                "y": 73.6105476673428
+            },
+            "scaled_size": 27.453798767967147
+        },
+        {
+            "index": 9,
+            "initial_position": {
+                "x": 1095.0091277890467,
+                "y": 99.27687626774848
+            },
+            "initial_size": 34.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 715.765720081136,
+                "y": 64.89350912778905
+            },
+            "scaled_size": 22.22450376454483
+        },
+        {
+            "index": 10,
+            "initial_position": {
+                "x": 1286.1541582150103,
+                "y": 109.64908722109534
+            },
+            "initial_size": 41.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 840.7099391480731,
+                "y": 71.67342799188641
+            },
+            "scaled_size": 26.800136892539356
+        },
+        {
+            "index": 11,
+            "initial_position": {
+                "x": 1378.0223123732253,
+                "y": 109.64908722109534
+            },
+            "initial_size": 38.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 900.7606490872212,
+                "y": 71.67342799188641
+            },
+            "scaled_size": 24.83915126625599
+        },
+        {
+            "index": 12,
+            "initial_position": {
+                "x": 1366.1683569979716,
+                "y": 472.6764705882353
+            },
+            "initial_size": 47.99999999999999,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 893.0121703853955,
+                "y": 308.97058823529414
+            },
+            "scaled_size": 31.375770020533878
+        },
+        {
+            "index": 13,
+            "initial_position": {
+                "x": 1586.948275862069,
+                "y": 148.17444219066937
+            },
+            "initial_size": 49.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1037.3275862068967,
+                "y": 96.85598377281947
+            },
+            "scaled_size": 32.02943189596167
+        },
+        {
+            "index": 14,
+            "initial_position": {
+                "x": 1695.1156186612577,
+                "y": 145.210953346856
+            },
+            "initial_size": 37.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1108.0324543610548,
+                "y": 94.9188640973631
+            },
+            "scaled_size": 24.1854893908282
+        },
+        {
+            "index": 15,
+            "initial_position": {
+                "x": 1818.1004056795132,
+                "y": 133.35699797160245
+            },
+            "initial_size": 49.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1188.4229208924949,
+                "y": 87.17038539553754
+            },
+            "scaled_size": 32.02943189596167
+        },
+        {
+            "index": 16,
+            "initial_position": {
+                "x": 1932.1947261663286,
+                "y": 120.0212981744422
+            },
+            "initial_size": 51.99999999999999,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1263.002028397566,
+                "y": 78.45334685598378
+            },
+            "scaled_size": 33.99041752224503
+        },
+        {
+            "index": 17,
+            "initial_position": {
+                "x": 1843.2900608519271,
+                "y": 277.08620689655174
+            },
+            "initial_size": 47.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1204.8884381338744,
+                "y": 181.12068965517244
+            },
+            "scaled_size": 30.72210814510609
+        },
+        {
+            "index": 18,
+            "initial_position": {
+                "x": 1935.1582150101422,
+                "y": 274.1227180527383
+            },
+            "initial_size": 29.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1264.9391480730224,
+                "y": 179.18356997971603
+            },
+            "scaled_size": 18.956194387405887
+        },
+        {
+            "index": 19,
+            "initial_position": {
+                "x": 1582.503042596349,
+                "y": 291.9036511156187
+            },
+            "initial_size": 40.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1034.421906693712,
+                "y": 190.80628803245438
+            },
+            "scaled_size": 26.14647501711157
+        },
+        {
+            "index": 20,
+            "initial_position": {
+                "x": 1656.5902636916837,
+                "y": 303.7576064908722
+            },
+            "initial_size": 25.999999999999996,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1082.8498985801218,
+                "y": 198.55476673427992
+            },
+            "scaled_size": 16.995208761122516
+        },
+        {
+            "index": 21,
+            "initial_position": {
+                "x": 1733.6409736308317,
+                "y": 288.94016227180526
+            },
+            "initial_size": 33.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1133.215010141988,
+                "y": 188.86916835699796
+            },
+            "scaled_size": 21.570841889117045
+        },
+        {
+            "index": 22,
+            "initial_position": {
+                "x": 1770.684584178499,
+                "y": 414.8884381338743
+            },
+            "initial_size": 39.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1157.429006085193,
+                "y": 271.19675456389456
+            },
+            "scaled_size": 25.49281314168378
+        },
+        {
+            "index": 23,
+            "initial_position": {
+                "x": 1908.4868154158216,
+                "y": 420.815415821501
+            },
+            "initial_size": 49.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1247.5050709939148,
+                "y": 275.0709939148073
+            },
+            "scaled_size": 32.02943189596167
+        },
+        {
+            "index": 24,
+            "initial_position": {
+                "x": 1918.8590263691685,
+                "y": 585.289046653144
+            },
+            "initial_size": 41.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1254.2849898580123,
+                "y": 382.58113590263696
+            },
+            "scaled_size": 26.800136892539356
+        },
+        {
+            "index": 25,
+            "initial_position": {
+                "x": 1786.9837728194727,
+                "y": 563.0628803245436
+            },
+            "initial_size": 53.00000000000001,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1168.083164300203,
+                "y": 368.05273833671396
+            },
+            "scaled_size": 34.64407939767283
+        },
+        {
+            "index": 26,
+            "initial_position": {
+                "x": 1480.262677484787,
+                "y": 157.06490872210955
+            },
+            "initial_size": 46.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 967.5912778904666,
+                "y": 102.66734279918866
+            },
+            "scaled_size": 30.068446269678304
+        },
+        {
+            "index": 27,
+            "initial_position": {
+                "x": 1475.817444219067,
+                "y": 309.684584178499
+            },
+            "initial_size": 40.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 964.6855983772821,
+                "y": 202.4290060851927
+            },
+            "scaled_size": 26.14647501711157
+        },
+        {
+            "index": 28,
+            "initial_position": {
+                "x": 1483.2261663286004,
+                "y": 431.1876267748479
+            },
+            "initial_size": 56.99999999999999,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 969.5283975659229,
+                "y": 281.85091277890467
+            },
+            "scaled_size": 37.25872689938398
+        },
+        {
+            "index": 29,
+            "initial_position": {
+                "x": 1586.948275862069,
+                "y": 440.07809330628805
+            },
+            "initial_size": 43.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1037.3275862068967,
+                "y": 287.66227180527386
+            },
+            "scaled_size": 28.107460643394937
+        },
+        {
+            "index": 30,
+            "initial_position": {
+                "x": 1678.816430020284,
+                "y": 428.2241379310345
+            },
+            "initial_size": 42.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1097.3782961460447,
+                "y": 279.91379310344826
+            },
+            "scaled_size": 27.453798767967147
+        },
+        {
+            "index": 31,
+            "initial_position": {
+                "x": 1689.188640973631,
+                "y": 580.843813387424
+            },
+            "initial_size": 33.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1104.1582150101422,
+                "y": 379.6754563894524
+            },
+            "scaled_size": 21.570841889117045
+        },
+        {
+            "index": 32,
+            "initial_position": {
+                "x": 1760.3123732251522,
+                "y": 717.1643002028397
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1150.6490872210954,
+                "y": 468.78296146044624
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 33,
+            "initial_position": {
+                "x": 1856.6257606490874,
+                "y": 729.0182555780933
+            },
+            "initial_size": 40.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1213.605476673428,
+                "y": 476.5314401622718
+            },
+            "scaled_size": 26.14647501711157
+        },
+        {
+            "index": 34,
+            "initial_position": {
+                "x": 1585.4665314401623,
+                "y": 591.2160243407708
+            },
+            "initial_size": 51.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1036.3590263691683,
+                "y": 386.4553752535497
+            },
+            "scaled_size": 33.33675564681725
+        },
+        {
+            "index": 35,
+            "initial_position": {
+                "x": 1472.8539553752537,
+                "y": 606.0334685598377
+            },
+            "initial_size": 40.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 962.7484787018257,
+                "y": 396.14097363083164
+            },
+            "scaled_size": 26.14647501711157
+        },
+        {
+            "index": 36,
+            "initial_position": {
+                "x": 1379.5040567951319,
+                "y": 619.369168356998
+            },
+            "initial_size": 40.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 901.7292089249494,
+                "y": 404.8580121703854
+            },
+            "scaled_size": 26.14647501711157
+        },
+        {
+            "index": 37,
+            "initial_position": {
+                "x": 1292.081135902637,
+                "y": 663.8215010141988
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 844.5841784989859,
+                "y": 433.9148073022313
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 38,
+            "initial_position": {
+                "x": 1192.8042596348885,
+                "y": 709.7555780933063
+            },
+            "initial_size": 47.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 779.6906693711968,
+                "y": 463.9401622718053
+            },
+            "scaled_size": 30.72210814510609
+        },
+        {
+            "index": 39,
+            "initial_position": {
+                "x": 1179.4685598377282,
+                "y": 573.4350912778905
+            },
+            "initial_size": 47.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 770.973630831643,
+                "y": 374.83265720081135
+            },
+            "scaled_size": 30.72210814510609
+        },
+        {
+            "index": 40,
+            "initial_position": {
+                "x": 1189.840770791075,
+                "y": 174.84584178498986
+            },
+            "initial_size": 36.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 777.7535496957404,
+                "y": 114.29006085192698
+            },
+            "scaled_size": 23.531827515400412
+        },
+        {
+            "index": 41,
+            "initial_position": {
+                "x": 1275.7819472616634,
+                "y": 247.45131845841786
+            },
+            "initial_size": 42.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 833.9300202839758,
+                "y": 161.74949290060852
+            },
+            "scaled_size": 27.453798767967147
+        },
+        {
+            "index": 42,
+            "initial_position": {
+                "x": 1367.6501014198784,
+                "y": 234.11561866125763
+            },
+            "initial_size": 34.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 893.9807302231238,
+                "y": 153.0324543610548
+            },
+            "scaled_size": 22.22450376454483
+        },
+        {
+            "index": 43,
+            "initial_position": {
+                "x": 1355.7961460446247,
+                "y": 343.7647058823529
+            },
+            "initial_size": 31.000000000000004,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 886.2322515212982,
+                "y": 224.70588235294116
+            },
+            "scaled_size": 20.263518138261468
+        },
+        {
+            "index": 44,
+            "initial_position": {
+                "x": 1281.7089249492901,
+                "y": 382.29006085192697
+            },
+            "initial_size": 41.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 837.8042596348885,
+                "y": 249.88843813387425
+            },
+            "scaled_size": 26.800136892539356
+        },
+        {
+            "index": 45,
+            "initial_position": {
+                "x": 1179.4685598377282,
+                "y": 443.0415821501014
+            },
+            "initial_size": 35.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 770.973630831643,
+                "y": 289.5993914807302
+            },
+            "scaled_size": 22.87816563997262
+        },
+        {
+            "index": 46,
+            "initial_position": {
+                "x": 1180.950304259635,
+                "y": 299.31237322515216
+            },
+            "initial_size": 39.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 771.9421906693713,
+                "y": 195.64908722109536
+            },
+            "scaled_size": 25.49281314168378
+        },
+        {
+            "index": 47,
+            "initial_position": {
+                "x": 1081.6734279918865,
+                "y": 232.63387423935092
+            },
+            "initial_size": 46.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 707.0486815415821,
+                "y": 152.06389452332658
+            },
+            "scaled_size": 30.068446269678304
+        },
+        {
+            "index": 48,
+            "initial_position": {
+                "x": 1072.7829614604464,
+                "y": 376.36308316430024
+            },
+            "initial_size": 42.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 701.2373225152131,
+                "y": 246.01419878296147
+            },
+            "scaled_size": 27.453798767967147
+        },
+        {
+            "index": 49,
+            "initial_position": {
+                "x": 1087.6004056795132,
+                "y": 509.72008113590266
+            },
+            "initial_size": 47.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 710.922920892495,
+                "y": 333.184584178499
+            },
+            "scaled_size": 30.72210814510609
+        },
+        {
+            "index": 50,
+            "initial_position": {
+                "x": 1072.7829614604464,
+                "y": 697.9016227180527
+            },
+            "initial_size": 51.99999999999999,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 701.2373225152131,
+                "y": 456.1916835699797
+            },
+            "scaled_size": 33.99041752224503
+        },
+        {
+            "index": 51,
+            "initial_position": {
+                "x": 1164.6511156186614,
+                "y": 849.0395537525355
+            },
+            "initial_size": 49.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 761.2880324543612,
+                "y": 554.9847870182556
+            },
+            "scaled_size": 32.02943189596167
+        },
+        {
+            "index": 52,
+            "initial_position": {
+                "x": 1272.81845841785,
+                "y": 844.5943204868155
+            },
+            "initial_size": 43.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 831.9929006085193,
+                "y": 552.0791075050711
+            },
+            "scaled_size": 28.107460643394937
+        },
+        {
+            "index": 53,
+            "initial_position": {
+                "x": 1375.0588235294117,
+                "y": 803.105476673428
+            },
+            "initial_size": 46.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 898.8235294117646,
+                "y": 524.9594320486816
+            },
+            "scaled_size": 30.068446269678304
+        },
+        {
+            "index": 54,
+            "initial_position": {
+                "x": 1532.1237322515215,
+                "y": 909.79107505071
+            },
+            "initial_size": 53.00000000000001,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1001.4908722109535,
+                "y": 594.6957403651116
+            },
+            "scaled_size": 34.64407939767283
+        },
+        {
+            "index": 55,
+            "initial_position": {
+                "x": 1474.3356997971603,
+                "y": 739.3904665314402
+            },
+            "initial_size": 46.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 963.7170385395538,
+                "y": 483.3113590263692
+            },
+            "scaled_size": 30.068446269678304
+        },
+        {
+            "index": 56,
+            "initial_position": {
+                "x": 1564.7221095334687,
+                "y": 737.9087221095335
+            },
+            "initial_size": 34.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1022.7991886409737,
+                "y": 482.34279918864104
+            },
+            "scaled_size": 22.22450376454483
+        },
+        {
+            "index": 57,
+            "initial_position": {
+                "x": 1669.925963488844,
+                "y": 742.3539553752536
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1091.5669371196757,
+                "y": 485.2484787018256
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 58,
+            "initial_position": {
+                "x": 1656.5902636916837,
+                "y": 884.6014198782962
+            },
+            "initial_size": 46.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1082.8498985801218,
+                "y": 578.2302231237322
+            },
+            "scaled_size": 30.068446269678304
+        },
+        {
+            "index": 59,
+            "initial_position": {
+                "x": 1770.684584178499,
+                "y": 872.7474645030426
+            },
+            "initial_size": 31.000000000000004,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1157.429006085193,
+                "y": 570.4817444219067
+            },
+            "scaled_size": 20.263518138261468
+        },
+        {
+            "index": 60,
+            "initial_position": {
+                "x": 1861.0709939148073,
+                "y": 850.5212981744422
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1216.5111561866127,
+                "y": 555.9533468559838
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 61,
+            "initial_position": {
+                "x": 1984.055780933063,
+                "y": 752.7261663286005
+            },
+            "initial_size": 54.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1296.9016227180527,
+                "y": 492.02839756592294
+            },
+            "scaled_size": 35.29774127310062
+        },
+        {
+            "index": 62,
+            "initial_position": {
+                "x": 1967.7565922920894,
+                "y": 899.4188640973631
+            },
+            "initial_size": 45.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1286.2474645030427,
+                "y": 587.9158215010142
+            },
+            "scaled_size": 29.414784394250514
+        },
+        {
+            "index": 63,
+            "initial_position": {
+                "x": 1944.0486815415823,
+                "y": 1035.739350912779
+            },
+            "initial_size": 47.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1270.7505070993916,
+                "y": 677.0233265720082
+            },
+            "scaled_size": 30.72210814510609
+        },
+        {
+            "index": 64,
+            "initial_position": {
+                "x": 1847.735294117647,
+                "y": 1029.8123732251522
+            },
+            "initial_size": 40.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1207.7941176470588,
+                "y": 673.1490872210954
+            },
+            "scaled_size": 26.14647501711157
+        },
+        {
+            "index": 65,
+            "initial_position": {
+                "x": 1770.684584178499,
+                "y": 1044.629817444219
+            },
+            "initial_size": 33.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1157.429006085193,
+                "y": 682.8346855983773
+            },
+            "scaled_size": 21.570841889117045
+        },
+        {
+            "index": 66,
+            "initial_position": {
+                "x": 1649.1815415821502,
+                "y": 1055.002028397566
+            },
+            "initial_size": 47.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1078.0070993914808,
+                "y": 689.6146044624746
+            },
+            "scaled_size": 30.72210814510609
+        },
+        {
+            "index": 67,
+            "initial_position": {
+                "x": 1526.1967545638945,
+                "y": 1074.264705882353
+            },
+            "initial_size": 46.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 997.6166328600406,
+                "y": 702.2058823529412
+            },
+            "scaled_size": 30.068446269678304
+        },
+        {
+            "index": 68,
+            "initial_position": {
+                "x": 1541.0141987829616,
+                "y": 1260.9645030425963
+            },
+            "initial_size": 56.99999999999999,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1007.3022312373226,
+                "y": 824.2444219066937
+            },
+            "scaled_size": 37.25872689938398
+        },
+        {
+            "index": 69,
+            "initial_position": {
+                "x": 1659.553752535497,
+                "y": 1228.366125760649
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1084.7870182555782,
+                "y": 802.9361054766734
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 70,
+            "initial_position": {
+                "x": 1755.867139959432,
+                "y": 1220.9574036511156
+            },
+            "initial_size": 43.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1147.7434077079108,
+                "y": 798.0933062880324
+            },
+            "scaled_size": 28.107460643394937
+        },
+        {
+            "index": 71,
+            "initial_position": {
+                "x": 1875.8884381338744,
+                "y": 1191.322515212982
+            },
+            "initial_size": 55.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1226.1967545638947,
+                "y": 778.7221095334687
+            },
+            "scaled_size": 35.95140314852841
+        },
+        {
+            "index": 72,
+            "initial_position": {
+                "x": 1978.128803245436,
+                "y": 1213.5486815415823
+            },
+            "initial_size": 40.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 1293.02738336714,
+                "y": 793.2505070993916
+            },
+            "scaled_size": 26.14647501711157
+        },
+        {
+            "index": 73,
+            "initial_position": {
+                "x": 137.80223123732253,
+                "y": 308.2028397565923
+            },
+            "initial_size": 49.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 90.07606490872212,
+                "y": 201.46044624746452
+            },
+            "scaled_size": 32.02943189596167
+        },
+        {
+            "index": 74,
+            "initial_position": {
+                "x": 248.93306288032454,
+                "y": 302.2758620689655
+            },
+            "initial_size": 45.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 162.71805273833672,
+                "y": 197.58620689655174
+            },
+            "scaled_size": 29.414784394250514
+        },
+        {
+            "index": 75,
+            "initial_position": {
+                "x": 374.8813387423935,
+                "y": 281.5314401622718
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 245.04563894523326,
+                "y": 184.02636916835698
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 76,
+            "initial_position": {
+                "x": 487.49391480730225,
+                "y": 278.5679513184584
+            },
+            "initial_size": 37.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 318.6561866125761,
+                "y": 182.08924949290062
+            },
+            "scaled_size": 24.1854893908282
+        },
+        {
+            "index": 77,
+            "initial_position": {
+                "x": 576.3985801217038,
+                "y": 287.4584178498986
+            },
+            "initial_size": 43.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 376.76977687626777,
+                "y": 187.90060851926978
+            },
+            "scaled_size": 28.107460643394937
+        },
+        {
+            "index": 78,
+            "initial_position": {
+                "x": 703.8286004056796,
+                "y": 272.64097363083164
+            },
+            "initial_size": 58.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 460.06592292089255,
+                "y": 178.21501014198782
+            },
+            "scaled_size": 37.912388774811774
+        },
+        {
+            "index": 79,
+            "initial_position": {
+                "x": 826.8133874239351,
+                "y": 275.60446247464506
+            },
+            "initial_size": 41.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 540.4563894523327,
+                "y": 180.15212981744423
+            },
+            "scaled_size": 26.800136892539356
+        },
+        {
+            "index": 80,
+            "initial_position": {
+                "x": 961.6521298174442,
+                "y": 253.37829614604465
+            },
+            "initial_size": 46.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 628.5953346855983,
+                "y": 165.62373225152132
+            },
+            "scaled_size": 30.068446269678304
+        },
+        {
+            "index": 81,
+            "initial_position": {
+                "x": 946.8346855983773,
+                "y": 404.5162271805274
+            },
+            "initial_size": 51.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 618.9097363083165,
+                "y": 264.41683569979716
+            },
+            "scaled_size": 33.33675564681725
+        },
+        {
+            "index": 82,
+            "initial_position": {
+                "x": 826.8133874239351,
+                "y": 413.40669371196753
+            },
+            "initial_size": 42.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 540.4563894523327,
+                "y": 270.22819472616635
+            },
+            "scaled_size": 27.453798767967147
+        },
+        {
+            "index": 83,
+            "initial_position": {
+                "x": 840.1490872210953,
+                "y": 555.6541582150102
+            },
+            "initial_size": 43.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 549.1734279918865,
+                "y": 363.20993914807303
+            },
+            "scaled_size": 28.107460643394937
+        },
+        {
+            "index": 84,
+            "initial_position": {
+                "x": 961.6521298174442,
+                "y": 545.2819472616633
+            },
+            "initial_size": 46.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 628.5953346855983,
+                "y": 356.43002028397564
+            },
+            "scaled_size": 30.068446269678304
+        },
+        {
+            "index": 85,
+            "initial_position": {
+                "x": 843.1125760649088,
+                "y": 703.8286004056796
+            },
+            "initial_size": 53.00000000000001,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 551.1105476673429,
+                "y": 460.06592292089255
+            },
+            "scaled_size": 34.64407939767283
+        },
+        {
+            "index": 86,
+            "initial_position": {
+                "x": 946.8346855983773,
+                "y": 690.4929006085193
+            },
+            "initial_size": 40.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 618.9097363083165,
+                "y": 451.3488843813388
+            },
+            "scaled_size": 26.14647501711157
+        },
+        {
+            "index": 87,
+            "initial_position": {
+                "x": 1068.3377281947262,
+                "y": 880.1561866125761
+            },
+            "initial_size": 45.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 698.3316430020284,
+                "y": 575.3245436105477
+            },
+            "scaled_size": 29.414784394250514
+        },
+        {
+            "index": 88,
+            "initial_position": {
+                "x": 958.6886409736309,
+                "y": 828.2951318458419
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 626.658215010142,
+                "y": 541.4249492900609
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 89,
+            "initial_position": {
+                "x": 865.3387423935092,
+                "y": 834.2221095334686
+            },
+            "initial_size": 37.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 565.6389452332658,
+                "y": 545.2991886409736
+            },
+            "scaled_size": 24.1854893908282
+        },
+        {
+            "index": 90,
+            "initial_position": {
+                "x": 148.17444219066937,
+                "y": 440.07809330628805
+            },
+            "initial_size": 37.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 96.85598377281947,
+                "y": 287.66227180527386
+            },
+            "scaled_size": 24.1854893908282
+        },
+        {
+            "index": 91,
+            "initial_position": {
+                "x": 281.5314401622718,
+                "y": 444.52332657200816
+            },
+            "initial_size": 54.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 184.02636916835698,
+                "y": 290.5679513184584
+            },
+            "scaled_size": 35.29774127310062
+        },
+        {
+            "index": 92,
+            "initial_position": {
+                "x": 401.552738336714,
+                "y": 459.34077079107504
+            },
+            "initial_size": 38.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 262.4797160243408,
+                "y": 300.2535496957404
+            },
+            "scaled_size": 24.83915126625599
+        },
+        {
+            "index": 93,
+            "initial_position": {
+                "x": 508.238336713996,
+                "y": 438.59634888438137
+            },
+            "initial_size": 47.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 332.21602434077084,
+                "y": 286.69371196754565
+            },
+            "scaled_size": 30.72210814510609
+        },
+        {
+            "index": 94,
+            "initial_position": {
+                "x": 613.4421906693713,
+                "y": 429.7058823529412
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 400.9837728194727,
+                "y": 280.8823529411765
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 95,
+            "initial_position": {
+                "x": 700.8651115618661,
+                "y": 410.44320486815417
+            },
+            "initial_size": 45.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 458.12880324543613,
+                "y": 268.29107505070994
+            },
+            "scaled_size": 29.414784394250514
+        },
+        {
+            "index": 96,
+            "initial_position": {
+                "x": 730.5,
+                "y": 551.2089249492901
+            },
+            "initial_size": 49.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 477.5,
+                "y": 360.30425963488847
+            },
+            "scaled_size": 32.02943189596167
+        },
+        {
+            "index": 97,
+            "initial_position": {
+                "x": 623.814401622718,
+                "y": 564.5446247464504
+            },
+            "initial_size": 47.99999999999999,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 407.76369168356996,
+                "y": 369.0212981744422
+            },
+            "scaled_size": 31.375770020533878
+        },
+        {
+            "index": 98,
+            "initial_position": {
+                "x": 500.8296146044625,
+                "y": 570.4716024340771
+            },
+            "initial_size": 53.00000000000001,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 327.37322515212986,
+                "y": 372.895537525355
+            },
+            "scaled_size": 34.64407939767283
+        },
+        {
+            "index": 99,
+            "initial_position": {
+                "x": 401.552738336714,
+                "y": 579.3620689655172
+            },
+            "initial_size": 32.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 262.4797160243408,
+                "y": 378.7068965517241
+            },
+            "scaled_size": 20.917180013689254
+        },
+        {
+            "index": 100,
+            "initial_position": {
+                "x": 325.9837728194726,
+                "y": 579.3620689655172
+            },
+            "initial_size": 38.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 213.08316430020284,
+                "y": 378.7068965517241
+            },
+            "scaled_size": 24.83915126625599
+        },
+        {
+            "index": 101,
+            "initial_position": {
+                "x": 210.4077079107505,
+                "y": 604.551724137931
+            },
+            "initial_size": 55.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 137.53549695740364,
+                "y": 395.1724137931035
+            },
+            "scaled_size": 35.95140314852841
+        },
+        {
+            "index": 102,
+            "initial_position": {
+                "x": 97.7951318458418,
+                "y": 635.6683569979716
+            },
+            "initial_size": 53.00000000000001,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 63.92494929006086,
+                "y": 415.51217038539556
+            },
+            "scaled_size": 34.64407939767283
+        },
+        {
+            "index": 103,
+            "initial_position": {
+                "x": 398.58924949290065,
+                "y": 865.3387423935092
+            },
+            "initial_size": 70.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 260.5425963488844,
+                "y": 565.6389452332658
+            },
+            "scaled_size": 45.75633127994524
+        },
+        {
+            "index": 104,
+            "initial_position": {
+                "x": 533.4279918864098,
+                "y": 853.4847870182556
+            },
+            "initial_size": 46.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 348.68154158215015,
+                "y": 557.8904665314402
+            },
+            "scaled_size": 30.068446269678304
+        },
+        {
+            "index": 105,
+            "initial_position": {
+                "x": 649.0040567951319,
+                "y": 854.9665314401623
+            },
+            "initial_size": 50.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 424.2292089249493,
+                "y": 558.8590263691684
+            },
+            "scaled_size": 32.68309377138946
+        },
+        {
+            "index": 106,
+            "initial_position": {
+                "x": 959.540380047506,
+                "y": 968.2161520190025
+            },
+            "initial_size": 42.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 627.2149643705463,
+                "y": 632.8859857482186
+            },
+            "scaled_size": 27.453798767967147
+        },
+        {
+            "index": 107,
+            "initial_position": {
+                "x": 1051.5035629453682,
+                "y": 1004.6543942992874
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 687.3277909738717,
+                "y": 656.7042755344419
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 108,
+            "initial_position": {
+                "x": 1289.2197149643707,
+                "y": 983.832541567696
+            },
+            "initial_size": 60.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 842.7137767220904,
+                "y": 643.0938242280286
+            },
+            "scaled_size": 39.219712525667354
+        },
+        {
+            "index": 109,
+            "initial_position": {
+                "x": 1417.621140142518,
+                "y": 963.0106888361046
+            },
+            "initial_size": 53.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 926.6448931116391,
+                "y": 629.4833729216152
+            },
+            "scaled_size": 34.644079397672826
+        },
+        {
+            "index": 110,
+            "initial_position": {
+                "x": 1415.8859857482187,
+                "y": 1126.1152019002377
+            },
+            "initial_size": 47.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 925.5106888361046,
+                "y": 736.0985748218528
+            },
+            "scaled_size": 30.72210814510609
+        },
+        {
+            "index": 111,
+            "initial_position": {
+                "x": 1417.621140142518,
+                "y": 1271.8681710213777
+            },
+            "initial_size": 45.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 926.6448931116391,
+                "y": 831.3717339667459
+            },
+            "scaled_size": 29.414784394250514
+        },
+        {
+            "index": 112,
+            "initial_position": {
+                "x": 1311.7767220902613,
+                "y": 1280.5439429928742
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 857.4584323040381,
+                "y": 837.0427553444182
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 113,
+            "initial_position": {
+                "x": 1299.6306413301663,
+                "y": 1120.9097387173397
+            },
+            "initial_size": 56.00000000000001,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 849.519002375297,
+                "y": 732.6959619952494
+            },
+            "scaled_size": 36.6050650239562
+        },
+        {
+            "index": 114,
+            "initial_position": {
+                "x": 1176.434679334917,
+                "y": 1009.8598574821854
+            },
+            "initial_size": 43.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 768.9904988123517,
+                "y": 660.1068883610452
+            },
+            "scaled_size": 28.107460643394937
+        },
+        {
+            "index": 115,
+            "initial_position": {
+                "x": 1178.1698337292162,
+                "y": 1166.0237529691212
+            },
+            "initial_size": 43.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 770.124703087886,
+                "y": 762.1852731591449
+            },
+            "scaled_size": 28.107460643394937
+        },
+        {
+            "index": 116,
+            "initial_position": {
+                "x": 1172.9643705463184,
+                "y": 1304.8361045130641
+            },
+            "initial_size": 38.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 766.7220902612827,
+                "y": 852.9216152019003
+            },
+            "scaled_size": 24.83915126625599
+        },
+        {
+            "index": 117,
+            "initial_position": {
+                "x": 1054.973871733967,
+                "y": 1299.6306413301663
+            },
+            "initial_size": 48.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 689.5961995249407,
+                "y": 849.519002375297
+            },
+            "scaled_size": 31.37577002053388
+        },
+        {
+            "index": 118,
+            "initial_position": {
+                "x": 45.11401425178148,
+                "y": 1200.726840855107
+            },
+            "initial_size": 60.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 29.48931116389549,
+                "y": 784.8693586698338
+            },
+            "scaled_size": 39.219712525667354
+        },
+        {
+            "index": 119,
+            "initial_position": {
+                "x": 945.6591448931117,
+                "y": 1113.9691211401425
+            },
+            "initial_size": 35.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 618.1413301662708,
+                "y": 728.1591448931117
+            },
+            "scaled_size": 22.87816563997262
+        },
+        {
+            "index": 120,
+            "initial_position": {
+                "x": 163.10451306413302,
+                "y": 1202.4619952494063
+            },
+            "initial_size": 37.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 106.61520190023754,
+                "y": 786.0035629453682
+            },
+            "scaled_size": 24.1854893908282
+        },
+        {
+            "index": 121,
+            "initial_position": {
+                "x": 239.4513064133017,
+                "y": 1237.165083135392
+            },
+            "initial_size": 31.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 156.520190023753,
+                "y": 808.6876484560571
+            },
+            "scaled_size": 20.263518138261464
+        },
+        {
+            "index": 122,
+            "initial_position": {
+                "x": 357.44180522565324,
+                "y": 1223.2838479809977
+            },
+            "initial_size": 48.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 233.64608076009503,
+                "y": 799.6140142517816
+            },
+            "scaled_size": 31.37577002053388
+        },
+        {
+            "index": 123,
+            "initial_position": {
+                "x": 458.0807600950119,
+                "y": 1285.749406175772
+            },
+            "initial_size": 26.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 299.4299287410927,
+                "y": 840.4453681710214
+            },
+            "scaled_size": 16.99520876112252
+        },
+        {
+            "index": 124,
+            "initial_position": {
+                "x": 458.0807600950119,
+                "y": 1152.142517814727
+            },
+            "initial_size": 40.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 299.4299287410927,
+                "y": 753.1116389548695
+            },
+            "scaled_size": 26.14647501711157
+        },
+        {
+            "index": 125,
+            "initial_position": {
+                "x": 565.6603325415678,
+                "y": 1117.4394299287412
+            },
+            "initial_size": 38.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 369.7505938242281,
+                "y": 730.4275534441806
+            },
+            "scaled_size": 24.83915126625599
+        },
+        {
+            "index": 126,
+            "initial_position": {
+                "x": 576.0712589073635,
+                "y": 992.5083135391925
+            },
+            "initial_size": 34.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 376.55581947743474,
+                "y": 648.7648456057008
+            },
+            "scaled_size": 22.22450376454483
+        },
+        {
+            "index": 127,
+            "initial_position": {
+                "x": 673.2399049881236,
+                "y": 995.9786223277911
+            },
+            "initial_size": 39.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 440.0712589073635,
+                "y": 651.0332541567697
+            },
+            "scaled_size": 25.49281314168378
+        },
+        {
+            "index": 128,
+            "initial_position": {
+                "x": 773.8788598574822,
+                "y": 985.5676959619954
+            },
+            "initial_size": 43.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 505.8551068883611,
+                "y": 644.228028503563
+            },
+            "scaled_size": 28.107460643394937
+        },
+        {
+            "index": 129,
+            "initial_position": {
+                "x": 765.2030878859858,
+                "y": 851.9608076009501
+            },
+            "initial_size": 46.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 500.18408551068893,
+                "y": 556.894299287411
+            },
+            "scaled_size": 30.068446269678304
+        },
+        {
+            "index": 130,
+            "initial_position": {
+                "x": 739.1757719714965,
+                "y": 704.4726840855108
+            },
+            "initial_size": 45.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 483.1710213776723,
+                "y": 460.4869358669834
+            },
+            "scaled_size": 29.414784394250514
+        },
+        {
+            "index": 131,
+            "initial_position": {
+                "x": 648.9477434679335,
+                "y": 697.5320665083136
+            },
+            "initial_size": 42.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 424.19239904988126,
+                "y": 455.9501187648457
+            },
+            "scaled_size": 27.453798767967147
+        },
+        {
+            "index": 132,
+            "initial_position": {
+                "x": 555.249406175772,
+                "y": 711.4133016627079
+            },
+            "initial_size": 40.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 362.9453681710214,
+                "y": 465.0237529691212
+            },
+            "scaled_size": 26.14647501711157
+        },
+        {
+            "index": 133,
+            "initial_position": {
+                "x": 458.0807600950119,
+                "y": 699.2672209026128
+            },
+            "initial_size": 42.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 299.4299287410927,
+                "y": 457.08432304038007
+            },
+            "scaled_size": 27.453798767967147
+        },
+        {
+            "index": 134,
+            "initial_position": {
+                "x": 357.44180522565324,
+                "y": 692.3266033254157
+            },
+            "initial_size": 45.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 233.64608076009503,
+                "y": 452.5475059382423
+            },
+            "scaled_size": 29.414784394250514
+        },
+        {
+            "index": 135,
+            "initial_position": {
+                "x": 282.8301662707839,
+                "y": 694.061757719715
+            },
+            "initial_size": 26.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 184.87529691211404,
+                "y": 453.6817102137768
+            },
+            "scaled_size": 16.99520876112252
+        },
+        {
+            "index": 136,
+            "initial_position": {
+                "x": 173.51543942992876,
+                "y": 780.8194774346794
+            },
+            "initial_size": 36.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 113.4204275534442,
+                "y": 510.3919239904988
+            },
+            "scaled_size": 23.531827515400412
+        },
+        {
+            "index": 137,
+            "initial_position": {
+                "x": 267.2137767220903,
+                "y": 827.6686460807601
+            },
+            "initial_size": 39.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 174.66745843230407,
+                "y": 541.0154394299287
+            },
+            "scaled_size": 25.49281314168378
+        },
+        {
+            "index": 138,
+            "initial_position": {
+                "x": 65.93586698337293,
+                "y": 794.7007125890736
+            },
+            "initial_size": 34.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 43.0997624703088,
+                "y": 519.4655581947744
+            },
+            "scaled_size": 22.22450376454483
+        },
+        {
+            "index": 139,
+            "initial_position": {
+                "x": 480.6377672209027,
+                "y": 1022.0059382422803
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 314.17458432304045,
+                "y": 668.0463182897862
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 140,
+            "initial_position": {
+                "x": 360.9121140142518,
+                "y": 1061.914489311164
+            },
+            "initial_size": 36.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 235.91448931116392,
+                "y": 694.1330166270785
+            },
+            "scaled_size": 23.531827515400412
+        },
+        {
+            "index": 141,
+            "initial_position": {
+                "x": 279.3598574821853,
+                "y": 1074.060570071259
+            },
+            "initial_size": 38.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 182.60688836104515,
+                "y": 702.0724465558195
+            },
+            "scaled_size": 24.83915126625599
+        },
+        {
+            "index": 142,
+            "initial_position": {
+                "x": 284.56532066508316,
+                "y": 952.5997624703089
+            },
+            "initial_size": 37.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 186.00950118764848,
+                "y": 622.6781472684086
+            },
+            "scaled_size": 24.1854893908282
+        },
+        {
+            "index": 143,
+            "initial_position": {
+                "x": 180.4560570071259,
+                "y": 1060.1793349168647
+            },
+            "initial_size": 39.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 117.95724465558196,
+                "y": 692.9988123515441
+            },
+            "scaled_size": 25.49281314168378
+        },
+        {
+            "index": 144,
+            "initial_position": {
+                "x": 163.10451306413302,
+                "y": 916.1615201900238
+            },
+            "initial_size": 27.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 106.61520190023754,
+                "y": 598.8598574821854
+            },
+            "scaled_size": 17.64887063655031
+        },
+        {
+            "index": 145,
+            "initial_position": {
+                "x": 81.55225653206651,
+                "y": 914.4263657957246
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 53.30760095011877,
+                "y": 597.7256532066509
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 146,
+            "initial_position": {
+                "x": 79.81710213776722,
+                "y": 1061.914489311164
+            },
+            "initial_size": 44.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 52.173396674584325,
+                "y": 694.1330166270785
+            },
+            "scaled_size": 28.761122518822724
+        },
+        {
+            "index": 147,
+            "initial_position": {
+                "x": 671.5047505938243,
+                "y": 1273.603325415677
+            },
+            "initial_size": 45.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 438.937054631829,
+                "y": 832.5059382422804
+            },
+            "scaled_size": 29.414784394250514
+        },
+        {
+            "index": 148,
+            "initial_position": {
+                "x": 683.6508313539193,
+                "y": 1139.996437054632
+            },
+            "initial_size": 34.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 446.87648456057013,
+                "y": 745.1722090261284
+            },
+            "scaled_size": 22.22450376454483
+        },
+        {
+            "index": 149,
+            "initial_position": {
+                "x": 777.3491686460808,
+                "y": 1131.3206650831355
+            },
+            "initial_size": 42.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 508.12351543943,
+                "y": 739.5011876484562
+            },
+            "scaled_size": 27.453798767967147
+        },
+        {
+            "index": 150,
+            "initial_position": {
+                "x": 862.3717339667459,
+                "y": 1127.8503562945368
+            },
+            "initial_size": 33.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 563.6995249406176,
+                "y": 737.2327790973872
+            },
+            "scaled_size": 21.570841889117045
+        },
+        {
+            "index": 151,
+            "initial_position": {
+                "x": 881.4584323040381,
+                "y": 950.8646080760095
+            },
+            "initial_size": 30.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 576.1757719714965,
+                "y": 621.5439429928741
+            },
+            "scaled_size": 19.609856262833677
+        },
+        {
+            "index": 152,
+            "initial_position": {
+                "x": 857.1662707838481,
+                "y": 1268.3978622327793
+            },
+            "initial_size": 27.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 560.2969121140143,
+                "y": 829.1033254156771
+            },
+            "scaled_size": 17.64887063655031
+        },
+        {
+            "index": 153,
+            "initial_position": {
+                "x": 770.4085510688836,
+                "y": 1275.3384798099764
+            },
+            "initial_size": 35.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 503.5866983372922,
+                "y": 833.6401425178149
+            },
+            "scaled_size": 22.87816563997262
+        },
+        {
+            "index": 154,
+            "initial_position": {
+                "x": 563.9251781472684,
+                "y": 1256.2517814726841
+            },
+            "initial_size": 43.0,
+            "current_image_scale": 0.6536618754277892,
+            "scaled_position": {
+                "x": 368.6163895486936,
+                "y": 821.1638954869359
+            },
+            "scaled_size": 28.107460643394937
+        }
+    ]
+}
